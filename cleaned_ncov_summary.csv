@@ -1,0 +1,417 @@
+province,country,last_update,confirmed,suspected,recovered,deaths,date,location,is_china,active
+Hong Kong,Hong Kong,2020-01-21 22:00:00,0,117,0,0,2020-01-21,"Hong Kong, Hong Kong",False,0
+,Japan,2020-01-21 22:00:00,1,0,0,0,2020-01-21,Japan,False,1
+Anhui,Mainland China,2020-01-21 22:00:00,0,3,0,0,2020-01-21,"Anhui, Mainland China",True,0
+Beijing,Mainland China,2020-01-21 22:00:00,10,0,0,0,2020-01-21,"Beijing, Mainland China",True,10
+Chongqing,Mainland China,2020-01-21 22:00:00,5,0,0,0,2020-01-21,"Chongqing, Mainland China",True,5
+Guangdong,Mainland China,2020-01-21 22:00:00,17,4,0,0,2020-01-21,"Guangdong, Mainland China",True,17
+Guangxi,Mainland China,2020-01-21 22:00:00,0,1,0,0,2020-01-21,"Guangxi, Mainland China",True,0
+Guizhou,Mainland China,2020-01-21 22:00:00,0,1,0,0,2020-01-21,"Guizhou, Mainland China",True,0
+Hainan,Mainland China,2020-01-21 22:00:00,0,1,0,0,2020-01-21,"Hainan, Mainland China",True,0
+Heilongjiang,Mainland China,2020-01-21 22:00:00,0,1,0,0,2020-01-21,"Heilongjiang, Mainland China",True,0
+Henan,Mainland China,2020-01-21 22:00:00,1,0,0,0,2020-01-21,"Henan, Mainland China",True,1
+Hubei,Mainland China,2020-01-21 22:00:00,270,11,25,6,2020-01-21,"Hubei, Mainland China",True,239
+Hunan,Mainland China,2020-01-21 22:00:00,1,0,0,0,2020-01-21,"Hunan, Mainland China",True,1
+Jiangxi,Mainland China,2020-01-21 22:00:00,2,0,0,0,2020-01-21,"Jiangxi, Mainland China",True,2
+Jilin,Mainland China,2020-01-21 22:00:00,0,1,0,0,2020-01-21,"Jilin, Mainland China",True,0
+Liaoning,Mainland China,2020-01-21 22:00:00,0,1,0,0,2020-01-21,"Liaoning, Mainland China",True,0
+Ningxia,Mainland China,2020-01-21 22:00:00,0,1,0,0,2020-01-21,"Ningxia, Mainland China",True,0
+Shandong,Mainland China,2020-01-21 22:00:00,1,0,0,0,2020-01-21,"Shandong, Mainland China",True,1
+Shanghai,Mainland China,2020-01-21 22:00:00,9,10,0,0,2020-01-21,"Shanghai, Mainland China",True,9
+Sichuan,Mainland China,2020-01-21 22:00:00,2,1,0,0,2020-01-21,"Sichuan, Mainland China",True,2
+Tianjin,Mainland China,2020-01-21 22:00:00,2,0,0,0,2020-01-21,"Tianjin, Mainland China",True,2
+Yunnan,Mainland China,2020-01-21 22:00:00,1,0,0,0,2020-01-21,"Yunnan, Mainland China",True,1
+Zhejiang,Mainland China,2020-01-21 22:00:00,5,16,0,0,2020-01-21,"Zhejiang, Mainland China",True,5
+,South Korea,2020-01-21 22:00:00,1,0,0,0,2020-01-21,South Korea,False,1
+Taiwan,Taiwan,2020-01-21 22:00:00,1,0,0,0,2020-01-21,"Taiwan, Taiwan",False,1
+,Thailand,2020-01-21 22:00:00,2,0,0,0,2020-01-21,Thailand,False,2
+Washington,US,2020-01-21 22:00:00,1,0,0,0,2020-01-21,"Washington, US",False,1
+Hong Kong,Hong Kong,2020-01-22 12:00:00,0,117,0,0,2020-01-22,"Hong Kong, Hong Kong",False,0
+,Japan,2020-01-22 12:00:00,2,0,0,0,2020-01-22,Japan,False,2
+Macau,Macau,2020-01-22 12:00:00,1,0,0,0,2020-01-22,"Macau, Macau",False,1
+Anhui,Mainland China,2020-01-22 12:00:00,1,4,0,0,2020-01-22,"Anhui, Mainland China",True,1
+Beijing,Mainland China,2020-01-22 12:00:00,14,0,0,0,2020-01-22,"Beijing, Mainland China",True,14
+Chongqing,Mainland China,2020-01-22 12:00:00,6,0,0,0,2020-01-22,"Chongqing, Mainland China",True,6
+Fujian,Mainland China,2020-01-22 12:00:00,1,0,0,0,2020-01-22,"Fujian, Mainland China",True,1
+Gansu,Mainland China,2020-01-22 12:00:00,0,0,0,0,2020-01-22,"Gansu, Mainland China",True,0
+Guangdong,Mainland China,2020-01-22 12:00:00,26,1,0,0,2020-01-22,"Guangdong, Mainland China",True,26
+Guangxi,Mainland China,2020-01-22 12:00:00,2,1,0,0,2020-01-22,"Guangxi, Mainland China",True,2
+Guizhou,Mainland China,2020-01-22 12:00:00,1,0,0,0,2020-01-22,"Guizhou, Mainland China",True,1
+Hainan,Mainland China,2020-01-22 12:00:00,4,0,0,0,2020-01-22,"Hainan, Mainland China",True,4
+Hebei,Mainland China,2020-01-22 12:00:00,1,0,0,0,2020-01-22,"Hebei, Mainland China",True,1
+Heilongjiang,Mainland China,2020-01-22 12:00:00,0,1,0,0,2020-01-22,"Heilongjiang, Mainland China",True,0
+Henan,Mainland China,2020-01-22 12:00:00,5,0,0,0,2020-01-22,"Henan, Mainland China",True,5
+Hubei,Mainland China,2020-01-22 12:00:00,444,0,28,17,2020-01-22,"Hubei, Mainland China",True,399
+Hunan,Mainland China,2020-01-22 12:00:00,4,0,0,0,2020-01-22,"Hunan, Mainland China",True,4
+Inner Mongolia,Mainland China,2020-01-22 12:00:00,0,0,0,0,2020-01-22,"Inner Mongolia, Mainland China",True,0
+Jiangsu,Mainland China,2020-01-22 12:00:00,1,0,0,0,2020-01-22,"Jiangsu, Mainland China",True,1
+Jiangxi,Mainland China,2020-01-22 12:00:00,2,0,0,0,2020-01-22,"Jiangxi, Mainland China",True,2
+Jilin,Mainland China,2020-01-22 12:00:00,0,1,0,0,2020-01-22,"Jilin, Mainland China",True,0
+Liaoning,Mainland China,2020-01-22 12:00:00,2,0,0,0,2020-01-22,"Liaoning, Mainland China",True,2
+Ningxia,Mainland China,2020-01-22 12:00:00,1,0,0,0,2020-01-22,"Ningxia, Mainland China",True,1
+Qinghai,Mainland China,2020-01-22 12:00:00,0,0,0,0,2020-01-22,"Qinghai, Mainland China",True,0
+Shaanxi,Mainland China,2020-01-22 12:00:00,0,0,0,0,2020-01-22,"Shaanxi, Mainland China",True,0
+Shandong,Mainland China,2020-01-22 12:00:00,2,0,0,0,2020-01-22,"Shandong, Mainland China",True,2
+Shanghai,Mainland China,2020-01-22 12:00:00,9,10,0,0,2020-01-22,"Shanghai, Mainland China",True,9
+Shanxi,Mainland China,2020-01-22 12:00:00,1,0,0,0,2020-01-22,"Shanxi, Mainland China",True,1
+Sichuan,Mainland China,2020-01-22 12:00:00,5,2,0,0,2020-01-22,"Sichuan, Mainland China",True,5
+Tianjin,Mainland China,2020-01-22 12:00:00,4,0,0,0,2020-01-22,"Tianjin, Mainland China",True,4
+Tibet,Mainland China,2020-01-22 12:00:00,0,0,0,0,2020-01-22,"Tibet, Mainland China",True,0
+Xinjiang,Mainland China,2020-01-22 12:00:00,0,0,0,0,2020-01-22,"Xinjiang, Mainland China",True,0
+Yunnan,Mainland China,2020-01-22 12:00:00,1,0,0,0,2020-01-22,"Yunnan, Mainland China",True,1
+Zhejiang,Mainland China,2020-01-22 12:00:00,10,0,0,0,2020-01-22,"Zhejiang, Mainland China",True,10
+,South Korea,2020-01-22 12:00:00,1,0,0,0,2020-01-22,South Korea,False,1
+Taiwan,Taiwan,2020-01-22 12:00:00,1,0,0,0,2020-01-22,"Taiwan, Taiwan",False,1
+,Thailand,2020-01-22 12:00:00,2,0,0,0,2020-01-22,Thailand,False,2
+Washington,US,2020-01-22 12:00:00,1,0,0,0,2020-01-22,"Washington, US",False,1
+,Australia,2020-01-23 12:00:00,0,1,0,0,2020-01-23,Australia,False,0
+,Brazil,2020-01-23 12:00:00,0,1,0,0,2020-01-23,Brazil,False,0
+,Colombia,2020-01-23 12:00:00,0,1,0,0,2020-01-23,Colombia,False,0
+Hong Kong,Hong Kong,2020-01-23 12:00:00,2,65,0,0,2020-01-23,"Hong Kong, Hong Kong",False,2
+,Japan,2020-01-23 12:00:00,1,0,0,0,2020-01-23,Japan,False,1
+Macau,Macau,2020-01-23 12:00:00,2,0,0,0,2020-01-23,"Macau, Macau",False,2
+Anhui,Mainland China,2020-01-23 12:00:00,9,4,0,0,2020-01-23,"Anhui, Mainland China",True,9
+Beijing,Mainland China,2020-01-23 12:00:00,22,0,0,0,2020-01-23,"Beijing, Mainland China",True,22
+Chongqing,Mainland China,2020-01-23 12:00:00,9,0,0,0,2020-01-23,"Chongqing, Mainland China",True,9
+Fujian,Mainland China,2020-01-23 12:00:00,5,2,0,0,2020-01-23,"Fujian, Mainland China",True,5
+Gansu,Mainland China,2020-01-23 12:00:00,2,0,0,0,2020-01-23,"Gansu, Mainland China",True,2
+Guangdong,Mainland China,2020-01-23 12:00:00,32,1,2,0,2020-01-23,"Guangdong, Mainland China",True,30
+Guangxi,Mainland China,2020-01-23 12:00:00,5,0,0,0,2020-01-23,"Guangxi, Mainland China",True,5
+Guizhou,Mainland China,2020-01-23 12:00:00,3,0,0,0,2020-01-23,"Guizhou, Mainland China",True,3
+Hainan,Mainland China,2020-01-23 12:00:00,5,32,0,0,2020-01-23,"Hainan, Mainland China",True,5
+Hebei,Mainland China,2020-01-23 12:00:00,1,0,0,1,2020-01-23,"Hebei, Mainland China",True,0
+Heilongjiang,Mainland China,2020-01-23 12:00:00,2,0,0,0,2020-01-23,"Heilongjiang, Mainland China",True,2
+Henan,Mainland China,2020-01-23 12:00:00,5,0,0,0,2020-01-23,"Henan, Mainland China",True,5
+Hubei,Mainland China,2020-01-23 12:00:00,444,0,28,17,2020-01-23,"Hubei, Mainland China",True,399
+Hunan,Mainland China,2020-01-23 12:00:00,9,0,0,0,2020-01-23,"Hunan, Mainland China",True,9
+Inner Mongolia,Mainland China,2020-01-23 12:00:00,0,1,0,0,2020-01-23,"Inner Mongolia, Mainland China",True,0
+Jiangsu,Mainland China,2020-01-23 12:00:00,5,0,0,0,2020-01-23,"Jiangsu, Mainland China",True,5
+Jiangxi,Mainland China,2020-01-23 12:00:00,7,0,0,0,2020-01-23,"Jiangxi, Mainland China",True,7
+Jilin,Mainland China,2020-01-23 12:00:00,1,0,0,0,2020-01-23,"Jilin, Mainland China",True,1
+Liaoning,Mainland China,2020-01-23 12:00:00,3,0,0,0,2020-01-23,"Liaoning, Mainland China",True,3
+Ningxia,Mainland China,2020-01-23 12:00:00,1,0,0,0,2020-01-23,"Ningxia, Mainland China",True,1
+Qinghai,Mainland China,2020-01-23 12:00:00,0,0,0,0,2020-01-23,"Qinghai, Mainland China",True,0
+Shaanxi,Mainland China,2020-01-23 12:00:00,3,1,0,0,2020-01-23,"Shaanxi, Mainland China",True,3
+Shandong,Mainland China,2020-01-23 12:00:00,6,2,0,0,2020-01-23,"Shandong, Mainland China",True,6
+Shanghai,Mainland China,2020-01-23 12:00:00,16,22,0,0,2020-01-23,"Shanghai, Mainland China",True,16
+Shanxi,Mainland China,2020-01-23 12:00:00,1,0,0,0,2020-01-23,"Shanxi, Mainland China",True,1
+Sichuan,Mainland China,2020-01-23 12:00:00,8,2,0,0,2020-01-23,"Sichuan, Mainland China",True,8
+Tianjin,Mainland China,2020-01-23 12:00:00,4,0,0,0,2020-01-23,"Tianjin, Mainland China",True,4
+Tibet,Mainland China,2020-01-23 12:00:00,0,0,0,0,2020-01-23,"Tibet, Mainland China",True,0
+Xinjiang,Mainland China,2020-01-23 12:00:00,2,0,0,0,2020-01-23,"Xinjiang, Mainland China",True,2
+Yunnan,Mainland China,2020-01-23 12:00:00,2,0,0,0,2020-01-23,"Yunnan, Mainland China",True,2
+Zhejiang,Mainland China,2020-01-23 12:00:00,27,0,0,0,2020-01-23,"Zhejiang, Mainland China",True,27
+,Malaysia,2020-01-23 12:00:00,0,4,0,0,2020-01-23,Malaysia,False,0
+,Mexico,2020-01-23 12:00:00,0,1,0,0,2020-01-23,Mexico,False,0
+,Philippines,2020-01-23 12:00:00,0,4,0,0,2020-01-23,Philippines,False,0
+,Singapore,2020-01-23 12:00:00,1,0,0,0,2020-01-23,Singapore,False,1
+,South Korea,2020-01-23 12:00:00,1,0,0,0,2020-01-23,South Korea,False,1
+Taiwan,Taiwan,2020-01-23 12:00:00,1,0,0,0,2020-01-23,"Taiwan, Taiwan",False,1
+,Thailand,2020-01-23 12:00:00,3,0,0,0,2020-01-23,Thailand,False,3
+Washington,US,2020-01-23 12:00:00,1,0,0,0,2020-01-23,"Washington, US",False,1
+,Vietnam,2020-01-23 12:00:00,2,0,0,0,2020-01-23,Vietnam,False,2
+Hong Kong,Hong Kong,2020-01-24 00:00:00,2,36,0,0,2020-01-24,"Hong Kong, Hong Kong",False,2
+,Japan,2020-01-24 00:00:00,2,0,0,0,2020-01-24,Japan,False,2
+Macau,Macau,2020-01-24 00:00:00,2,0,0,0,2020-01-24,"Macau, Macau",False,2
+Anhui,Mainland China,2020-01-24 00:00:00,15,4,0,0,2020-01-24,"Anhui, Mainland China",True,15
+Beijing,Mainland China,2020-01-24 00:00:00,26,22,0,0,2020-01-24,"Beijing, Mainland China",True,26
+Chongqing,Mainland China,2020-01-24 00:00:00,27,13,0,0,2020-01-24,"Chongqing, Mainland China",True,27
+Fujian,Mainland China,2020-01-24 00:00:00,5,2,0,0,2020-01-24,"Fujian, Mainland China",True,5
+Gansu,Mainland China,2020-01-24 00:00:00,2,0,0,0,2020-01-24,"Gansu, Mainland China",True,2
+Guangdong,Mainland China,2020-01-24 00:00:00,53,0,2,0,2020-01-24,"Guangdong, Mainland China",True,51
+Guangxi,Mainland China,2020-01-24 00:00:00,13,0,0,0,2020-01-24,"Guangxi, Mainland China",True,13
+Guizhou,Mainland China,2020-01-24 00:00:00,3,0,0,0,2020-01-24,"Guizhou, Mainland China",True,3
+Hainan,Mainland China,2020-01-24 00:00:00,8,32,0,0,2020-01-24,"Hainan, Mainland China",True,8
+Hebei,Mainland China,2020-01-24 00:00:00,2,0,0,1,2020-01-24,"Hebei, Mainland China",True,1
+Heilongjiang,Mainland China,2020-01-24 00:00:00,4,0,0,1,2020-01-24,"Heilongjiang, Mainland China",True,3
+Henan,Mainland China,2020-01-24 00:00:00,9,0,0,0,2020-01-24,"Henan, Mainland China",True,9
+Hubei,Mainland China,2020-01-24 00:00:00,549,0,31,24,2020-01-24,"Hubei, Mainland China",True,494
+Hunan,Mainland China,2020-01-24 00:00:00,24,0,0,0,2020-01-24,"Hunan, Mainland China",True,24
+Inner Mongolia,Mainland China,2020-01-24 00:00:00,1,2,0,0,2020-01-24,"Inner Mongolia, Mainland China",True,1
+Jiangsu,Mainland China,2020-01-24 00:00:00,9,0,0,0,2020-01-24,"Jiangsu, Mainland China",True,9
+Jiangxi,Mainland China,2020-01-24 00:00:00,7,0,0,0,2020-01-24,"Jiangxi, Mainland China",True,7
+Jilin,Mainland China,2020-01-24 00:00:00,3,0,0,0,2020-01-24,"Jilin, Mainland China",True,3
+Liaoning,Mainland China,2020-01-24 00:00:00,4,0,0,0,2020-01-24,"Liaoning, Mainland China",True,4
+Ningxia,Mainland China,2020-01-24 00:00:00,1,0,0,0,2020-01-24,"Ningxia, Mainland China",True,1
+Shaanxi,Mainland China,2020-01-24 00:00:00,3,0,0,0,2020-01-24,"Shaanxi, Mainland China",True,3
+Shandong,Mainland China,2020-01-24 00:00:00,9,0,0,0,2020-01-24,"Shandong, Mainland China",True,9
+Shanghai,Mainland China,2020-01-24 00:00:00,20,0,0,0,2020-01-24,"Shanghai, Mainland China",True,20
+Shanxi,Mainland China,2020-01-24 00:00:00,1,0,0,0,2020-01-24,"Shanxi, Mainland China",True,1
+Sichuan,Mainland China,2020-01-24 00:00:00,15,4,0,0,2020-01-24,"Sichuan, Mainland China",True,15
+Tianjin,Mainland China,2020-01-24 00:00:00,5,0,0,0,2020-01-24,"Tianjin, Mainland China",True,5
+Xinjiang,Mainland China,2020-01-24 00:00:00,2,0,0,0,2020-01-24,"Xinjiang, Mainland China",True,2
+Yunnan,Mainland China,2020-01-24 00:00:00,2,0,0,0,2020-01-24,"Yunnan, Mainland China",True,2
+Zhejiang,Mainland China,2020-01-24 00:00:00,43,0,1,0,2020-01-24,"Zhejiang, Mainland China",True,42
+,Singapore,2020-01-24 00:00:00,1,0,0,0,2020-01-24,Singapore,False,1
+,South Korea,2020-01-24 00:00:00,1,0,0,0,2020-01-24,South Korea,False,1
+Taiwan,Taiwan,2020-01-24 00:00:00,1,0,0,0,2020-01-24,"Taiwan, Taiwan",False,1
+,Thailand,2020-01-24 00:00:00,4,0,0,0,2020-01-24,Thailand,False,4
+Washington,US,2020-01-24 00:00:00,1,0,0,0,2020-01-24,"Washington, US",False,1
+,Vietnam,2020-01-24 00:00:00,2,0,0,0,2020-01-24,Vietnam,False,2
+Hong Kong,Hong Kong,2020-01-24 12:00:00,2,36,0,0,2020-01-24,"Hong Kong, Hong Kong",False,2
+,Japan,2020-01-24 12:00:00,2,0,0,0,2020-01-24,Japan,False,2
+Macau,Macau,2020-01-24 12:00:00,2,0,0,0,2020-01-24,"Macau, Macau",False,2
+Anhui,Mainland China,2020-01-24 12:00:00,15,4,0,0,2020-01-24,"Anhui, Mainland China",True,15
+Beijing,Mainland China,2020-01-24 12:00:00,36,0,1,0,2020-01-24,"Beijing, Mainland China",True,35
+Chongqing,Mainland China,2020-01-24 12:00:00,27,13,0,0,2020-01-24,"Chongqing, Mainland China",True,27
+Fujian,Mainland China,2020-01-24 12:00:00,10,2,0,0,2020-01-24,"Fujian, Mainland China",True,10
+Gansu,Mainland China,2020-01-24 12:00:00,2,0,0,0,2020-01-24,"Gansu, Mainland China",True,2
+Guangdong,Mainland China,2020-01-24 12:00:00,53,0,2,0,2020-01-24,"Guangdong, Mainland China",True,51
+Guangxi,Mainland China,2020-01-24 12:00:00,23,0,0,0,2020-01-24,"Guangxi, Mainland China",True,23
+Guizhou,Mainland China,2020-01-24 12:00:00,3,0,0,0,2020-01-24,"Guizhou, Mainland China",True,3
+Hainan,Mainland China,2020-01-24 12:00:00,8,32,0,0,2020-01-24,"Hainan, Mainland China",True,8
+Hebei,Mainland China,2020-01-24 12:00:00,2,0,0,1,2020-01-24,"Hebei, Mainland China",True,1
+Heilongjiang,Mainland China,2020-01-24 12:00:00,4,0,0,1,2020-01-24,"Heilongjiang, Mainland China",True,3
+Henan,Mainland China,2020-01-24 12:00:00,9,42,0,0,2020-01-24,"Henan, Mainland China",True,9
+Hubei,Mainland China,2020-01-24 12:00:00,549,0,31,24,2020-01-24,"Hubei, Mainland China",True,494
+Hunan,Mainland China,2020-01-24 12:00:00,24,0,0,0,2020-01-24,"Hunan, Mainland China",True,24
+Inner Mongolia,Mainland China,2020-01-24 12:00:00,1,2,0,0,2020-01-24,"Inner Mongolia, Mainland China",True,1
+Jiangsu,Mainland China,2020-01-24 12:00:00,9,0,0,0,2020-01-24,"Jiangsu, Mainland China",True,9
+Jiangxi,Mainland China,2020-01-24 12:00:00,18,0,0,0,2020-01-24,"Jiangxi, Mainland China",True,18
+Jilin,Mainland China,2020-01-24 12:00:00,3,0,0,0,2020-01-24,"Jilin, Mainland China",True,3
+Liaoning,Mainland China,2020-01-24 12:00:00,4,0,0,0,2020-01-24,"Liaoning, Mainland China",True,4
+Ningxia,Mainland China,2020-01-24 12:00:00,2,1,0,0,2020-01-24,"Ningxia, Mainland China",True,2
+Qinghai,Mainland China,2020-01-24 12:00:00,0,1,0,0,2020-01-24,"Qinghai, Mainland China",True,0
+Shaanxi,Mainland China,2020-01-24 12:00:00,5,0,0,0,2020-01-24,"Shaanxi, Mainland China",True,5
+Shandong,Mainland China,2020-01-24 12:00:00,15,0,0,0,2020-01-24,"Shandong, Mainland China",True,15
+Shanghai,Mainland China,2020-01-24 12:00:00,20,22,1,0,2020-01-24,"Shanghai, Mainland China",True,19
+Shanxi,Mainland China,2020-01-24 12:00:00,1,0,0,0,2020-01-24,"Shanxi, Mainland China",True,1
+Sichuan,Mainland China,2020-01-24 12:00:00,15,4,0,0,2020-01-24,"Sichuan, Mainland China",True,15
+Tianjin,Mainland China,2020-01-24 12:00:00,8,0,0,0,2020-01-24,"Tianjin, Mainland China",True,8
+Xinjiang,Mainland China,2020-01-24 12:00:00,2,0,0,0,2020-01-24,"Xinjiang, Mainland China",True,2
+Yunnan,Mainland China,2020-01-24 12:00:00,5,0,0,0,2020-01-24,"Yunnan, Mainland China",True,5
+Zhejiang,Mainland China,2020-01-24 12:00:00,43,0,1,0,2020-01-24,"Zhejiang, Mainland China",True,42
+,Singapore,2020-01-24 12:00:00,3,0,0,0,2020-01-24,Singapore,False,3
+,South Korea,2020-01-24 12:00:00,2,0,0,0,2020-01-24,South Korea,False,2
+Taiwan,Taiwan,2020-01-24 12:00:00,3,0,0,0,2020-01-24,"Taiwan, Taiwan",False,3
+,Thailand,2020-01-24 12:00:00,5,0,0,0,2020-01-24,Thailand,False,5
+Chicago,US,2020-01-24 12:00:00,1,0,0,0,2020-01-24,"Chicago, US",False,1
+Washington,US,2020-01-24 12:00:00,1,0,0,0,2020-01-24,"Washington, US",False,1
+,Vietnam,2020-01-24 12:00:00,2,0,0,0,2020-01-24,Vietnam,False,2
+,France,2020-01-24 16:00:00,2,0,0,0,2020-01-24,France,False,2
+,Australia,2020-01-25 00:00:00,1,0,0,0,2020-01-25,Australia,False,1
+,France,2020-01-25 00:00:00,3,0,0,0,2020-01-25,France,False,3
+Hong Kong,Hong Kong,2020-01-25 00:00:00,5,36,0,0,2020-01-25,"Hong Kong, Hong Kong",False,5
+,Japan,2020-01-25 00:00:00,2,0,0,0,2020-01-25,Japan,False,2
+Macau,Macau,2020-01-25 00:00:00,2,0,0,0,2020-01-25,"Macau, Macau",False,2
+Anhui,Mainland China,2020-01-25 00:00:00,39,4,0,0,2020-01-25,"Anhui, Mainland China",True,39
+Beijing,Mainland China,2020-01-25 00:00:00,36,0,1,0,2020-01-25,"Beijing, Mainland China",True,35
+Chongqing,Mainland China,2020-01-25 00:00:00,57,0,0,0,2020-01-25,"Chongqing, Mainland China",True,57
+Fujian,Mainland China,2020-01-25 00:00:00,10,4,0,0,2020-01-25,"Fujian, Mainland China",True,10
+Gansu,Mainland China,2020-01-25 00:00:00,4,0,0,0,2020-01-25,"Gansu, Mainland China",True,4
+Guangdong,Mainland China,2020-01-25 00:00:00,78,0,2,0,2020-01-25,"Guangdong, Mainland China",True,76
+Guangxi,Mainland China,2020-01-25 00:00:00,23,0,0,0,2020-01-25,"Guangxi, Mainland China",True,23
+Guizhou,Mainland China,2020-01-25 00:00:00,4,0,0,0,2020-01-25,"Guizhou, Mainland China",True,4
+Hainan,Mainland China,2020-01-25 00:00:00,17,0,0,0,2020-01-25,"Hainan, Mainland China",True,17
+Hebei,Mainland China,2020-01-25 00:00:00,8,0,0,1,2020-01-25,"Hebei, Mainland China",True,7
+Heilongjiang,Mainland China,2020-01-25 00:00:00,9,0,0,1,2020-01-25,"Heilongjiang, Mainland China",True,8
+Henan,Mainland China,2020-01-25 00:00:00,32,1,0,0,2020-01-25,"Henan, Mainland China",True,32
+Hubei,Mainland China,2020-01-25 00:00:00,729,0,32,39,2020-01-25,"Hubei, Mainland China",True,658
+Hunan,Mainland China,2020-01-25 00:00:00,43,0,0,0,2020-01-25,"Hunan, Mainland China",True,43
+Inner Mongolia,Mainland China,2020-01-25 00:00:00,2,0,0,0,2020-01-25,"Inner Mongolia, Mainland China",True,2
+Jiangsu,Mainland China,2020-01-25 00:00:00,18,0,1,0,2020-01-25,"Jiangsu, Mainland China",True,17
+Jiangxi,Mainland China,2020-01-25 00:00:00,18,0,0,0,2020-01-25,"Jiangxi, Mainland China",True,18
+Jilin,Mainland China,2020-01-25 00:00:00,4,0,0,0,2020-01-25,"Jilin, Mainland China",True,4
+Liaoning,Mainland China,2020-01-25 00:00:00,15,0,0,0,2020-01-25,"Liaoning, Mainland China",True,15
+Ningxia,Mainland China,2020-01-25 00:00:00,3,1,0,0,2020-01-25,"Ningxia, Mainland China",True,3
+Qinghai,Mainland China,2020-01-25 00:00:00,0,1,0,0,2020-01-25,"Qinghai, Mainland China",True,0
+Shaanxi,Mainland China,2020-01-25 00:00:00,5,0,0,0,2020-01-25,"Shaanxi, Mainland China",True,5
+Shandong,Mainland China,2020-01-25 00:00:00,21,0,0,0,2020-01-25,"Shandong, Mainland China",True,21
+Shanghai,Mainland China,2020-01-25 00:00:00,33,22,1,0,2020-01-25,"Shanghai, Mainland China",True,32
+Shanxi,Mainland China,2020-01-25 00:00:00,6,0,0,0,2020-01-25,"Shanxi, Mainland China",True,6
+Sichuan,Mainland China,2020-01-25 00:00:00,28,4,0,0,2020-01-25,"Sichuan, Mainland China",True,28
+Tianjin,Mainland China,2020-01-25 00:00:00,8,0,0,0,2020-01-25,"Tianjin, Mainland China",True,8
+Xinjiang,Mainland China,2020-01-25 00:00:00,3,0,0,0,2020-01-25,"Xinjiang, Mainland China",True,3
+Yunnan,Mainland China,2020-01-25 00:00:00,5,0,0,0,2020-01-25,"Yunnan, Mainland China",True,5
+Zhejiang,Mainland China,2020-01-25 00:00:00,62,0,1,0,2020-01-25,"Zhejiang, Mainland China",True,61
+,Malaysia,2020-01-25 00:00:00,3,0,0,0,2020-01-25,Malaysia,False,3
+,Nepal,2020-01-25 00:00:00,1,0,0,0,2020-01-25,Nepal,False,1
+,Singapore,2020-01-25 00:00:00,3,0,0,0,2020-01-25,Singapore,False,3
+,South Korea,2020-01-25 00:00:00,2,0,0,0,2020-01-25,South Korea,False,2
+Taiwan,Taiwan,2020-01-25 00:00:00,3,0,0,0,2020-01-25,"Taiwan, Taiwan",False,3
+,Thailand,2020-01-25 00:00:00,5,0,0,0,2020-01-25,Thailand,False,5
+Illinois,US,2020-01-25 00:00:00,1,0,0,0,2020-01-25,"Illinois, US",False,1
+Washington,US,2020-01-25 00:00:00,1,0,0,0,2020-01-25,"Washington, US",False,1
+,Vietnam,2020-01-25 00:00:00,2,0,0,0,2020-01-25,Vietnam,False,2
+,Australia,2020-01-25 12:00:00,4,0,0,0,2020-01-25,Australia,False,4
+,Australia,2020-01-25 12:00:00,4,0,0,0,2020-01-25,Australia,False,4
+,France,2020-01-25 12:00:00,3,0,0,0,2020-01-25,France,False,3
+,France,2020-01-25 12:00:00,3,0,0,0,2020-01-25,France,False,3
+Hong Kong,Hong Kong,2020-01-25 12:00:00,5,244,0,0,2020-01-25,"Hong Kong, Hong Kong",False,5
+Hong Kong,Hong Kong,2020-01-25 12:00:00,5,244,0,0,2020-01-25,"Hong Kong, Hong Kong",False,5
+,Japan,2020-01-25 12:00:00,2,0,0,0,2020-01-25,Japan,False,2
+,Japan,2020-01-25 12:00:00,2,0,0,0,2020-01-25,Japan,False,2
+Macau,Macau,2020-01-25 12:00:00,2,0,0,0,2020-01-25,"Macau, Macau",False,2
+Macau,Macau,2020-01-25 12:00:00,2,0,0,0,2020-01-25,"Macau, Macau",False,2
+Anhui,Mainland China,2020-01-25 12:00:00,39,4,0,0,2020-01-25,"Anhui, Mainland China",True,39
+Anhui,Mainland China,2020-01-25 12:00:00,60,4,0,0,2020-01-25,"Anhui, Mainland China",True,60
+Beijing,Mainland China,2020-01-25 12:00:00,41,0,2,0,2020-01-25,"Beijing, Mainland China",True,39
+Beijing,Mainland China,2020-01-25 12:00:00,51,0,2,0,2020-01-25,"Beijing, Mainland China",True,49
+Chongqing,Mainland China,2020-01-25 12:00:00,57,0,0,0,2020-01-25,"Chongqing, Mainland China",True,57
+Chongqing,Mainland China,2020-01-25 12:00:00,75,0,0,0,2020-01-25,"Chongqing, Mainland China",True,75
+Fujian,Mainland China,2020-01-25 12:00:00,18,20,0,0,2020-01-25,"Fujian, Mainland China",True,18
+Fujian,Mainland China,2020-01-25 12:00:00,18,20,0,0,2020-01-25,"Fujian, Mainland China",True,18
+Gansu,Mainland China,2020-01-25 12:00:00,4,0,0,0,2020-01-25,"Gansu, Mainland China",True,4
+Gansu,Mainland China,2020-01-25 12:00:00,7,0,0,0,2020-01-25,"Gansu, Mainland China",True,7
+Guangdong,Mainland China,2020-01-25 12:00:00,78,0,2,0,2020-01-25,"Guangdong, Mainland China",True,76
+Guangdong,Mainland China,2020-01-25 12:00:00,98,0,2,0,2020-01-25,"Guangdong, Mainland China",True,96
+Guangxi,Mainland China,2020-01-25 12:00:00,23,0,0,0,2020-01-25,"Guangxi, Mainland China",True,23
+Guangxi,Mainland China,2020-01-25 12:00:00,33,0,0,0,2020-01-25,"Guangxi, Mainland China",True,33
+Guizhou,Mainland China,2020-01-25 12:00:00,4,0,0,0,2020-01-25,"Guizhou, Mainland China",True,4
+Guizhou,Mainland China,2020-01-25 12:00:00,5,0,0,0,2020-01-25,"Guizhou, Mainland China",True,5
+Hainan,Mainland China,2020-01-25 12:00:00,19,0,0,0,2020-01-25,"Hainan, Mainland China",True,19
+Hainan,Mainland China,2020-01-25 12:00:00,19,0,0,0,2020-01-25,"Hainan, Mainland China",True,19
+Hebei,Mainland China,2020-01-25 12:00:00,8,0,0,1,2020-01-25,"Hebei, Mainland China",True,7
+Hebei,Mainland China,2020-01-25 12:00:00,13,0,0,1,2020-01-25,"Hebei, Mainland China",True,12
+Heilongjiang,Mainland China,2020-01-25 12:00:00,9,0,0,1,2020-01-25,"Heilongjiang, Mainland China",True,8
+Heilongjiang,Mainland China,2020-01-25 12:00:00,15,0,0,1,2020-01-25,"Heilongjiang, Mainland China",True,14
+Henan,Mainland China,2020-01-25 12:00:00,32,1,0,0,2020-01-25,"Henan, Mainland China",True,32
+Henan,Mainland China,2020-01-25 12:00:00,83,3,0,1,2020-01-25,"Henan, Mainland China",True,82
+Hubei,Mainland China,2020-01-25 12:00:00,761,0,32,40,2020-01-25,"Hubei, Mainland China",True,689
+Hunan,Mainland China,2020-01-25 12:00:00,43,0,0,0,2020-01-25,"Hunan, Mainland China",True,43
+Hunan,Mainland China,2020-01-25 12:00:00,69,0,0,0,2020-01-25,"Hunan, Mainland China",True,69
+Inner Mongolia,Mainland China,2020-01-25 12:00:00,7,0,0,0,2020-01-25,"Inner Mongolia, Mainland China",True,7
+Inner Mongolia,Mainland China,2020-01-25 12:00:00,7,0,0,0,2020-01-25,"Inner Mongolia, Mainland China",True,7
+Jiangsu,Mainland China,2020-01-25 12:00:00,18,0,1,0,2020-01-25,"Jiangsu, Mainland China",True,17
+Jiangsu,Mainland China,2020-01-25 12:00:00,31,0,1,0,2020-01-25,"Jiangsu, Mainland China",True,30
+Jiangxi,Mainland China,2020-01-25 12:00:00,18,0,0,0,2020-01-25,"Jiangxi, Mainland China",True,18
+Jiangxi,Mainland China,2020-01-25 12:00:00,36,0,0,0,2020-01-25,"Jiangxi, Mainland China",True,36
+Jilin,Mainland China,2020-01-25 12:00:00,4,0,0,0,2020-01-25,"Jilin, Mainland China",True,4
+Jilin,Mainland China,2020-01-25 12:00:00,4,0,0,0,2020-01-25,"Jilin, Mainland China",True,4
+Liaoning,Mainland China,2020-01-25 12:00:00,17,0,0,0,2020-01-25,"Liaoning, Mainland China",True,17
+Liaoning,Mainland China,2020-01-25 12:00:00,19,0,0,0,2020-01-25,"Liaoning, Mainland China",True,19
+Ningxia,Mainland China,2020-01-25 12:00:00,3,1,0,0,2020-01-25,"Ningxia, Mainland China",True,3
+Ningxia,Mainland China,2020-01-25 12:00:00,4,1,0,0,2020-01-25,"Ningxia, Mainland China",True,4
+Qinghai,Mainland China,2020-01-25 12:00:00,1,0,0,0,2020-01-25,"Qinghai, Mainland China",True,1
+Qinghai,Mainland China,2020-01-25 12:00:00,1,0,0,0,2020-01-25,"Qinghai, Mainland China",True,1
+Shaanxi,Mainland China,2020-01-25 12:00:00,15,0,0,0,2020-01-25,"Shaanxi, Mainland China",True,15
+Shaanxi,Mainland China,2020-01-25 12:00:00,15,0,0,0,2020-01-25,"Shaanxi, Mainland China",True,15
+Shandong,Mainland China,2020-01-25 12:00:00,27,0,0,0,2020-01-25,"Shandong, Mainland China",True,27
+Shandong,Mainland China,2020-01-25 12:00:00,39,0,0,0,2020-01-25,"Shandong, Mainland China",True,39
+Shanghai,Mainland China,2020-01-25 12:00:00,33,72,1,0,2020-01-25,"Shanghai, Mainland China",True,32
+Shanghai,Mainland China,2020-01-25 12:00:00,40,72,1,1,2020-01-25,"Shanghai, Mainland China",True,38
+Shanxi,Mainland China,2020-01-25 12:00:00,6,0,0,0,2020-01-25,"Shanxi, Mainland China",True,6
+Shanxi,Mainland China,2020-01-25 12:00:00,9,0,0,0,2020-01-25,"Shanxi, Mainland China",True,9
+Sichuan,Mainland China,2020-01-25 12:00:00,28,4,0,0,2020-01-25,"Sichuan, Mainland China",True,28
+Sichuan,Mainland China,2020-01-25 12:00:00,44,4,0,0,2020-01-25,"Sichuan, Mainland China",True,44
+Tianjin,Mainland China,2020-01-25 12:00:00,10,0,0,0,2020-01-25,"Tianjin, Mainland China",True,10
+Tianjin,Mainland China,2020-01-25 12:00:00,13,0,0,0,2020-01-25,"Tianjin, Mainland China",True,13
+Xinjiang,Mainland China,2020-01-25 12:00:00,3,0,0,0,2020-01-25,"Xinjiang, Mainland China",True,3
+Xinjiang,Mainland China,2020-01-25 12:00:00,4,0,0,0,2020-01-25,"Xinjiang, Mainland China",True,4
+Yunnan,Mainland China,2020-01-25 12:00:00,11,58,0,0,2020-01-25,"Yunnan, Mainland China",True,11
+Yunnan,Mainland China,2020-01-25 12:00:00,11,58,0,0,2020-01-25,"Yunnan, Mainland China",True,11
+Zhejiang,Mainland China,2020-01-25 12:00:00,62,0,1,0,2020-01-25,"Zhejiang, Mainland China",True,61
+,Malaysia,2020-01-25 12:00:00,3,0,0,0,2020-01-25,Malaysia,False,3
+,Malaysia,2020-01-25 12:00:00,3,0,0,0,2020-01-25,Malaysia,False,3
+,Nepal,2020-01-25 12:00:00,1,0,0,0,2020-01-25,Nepal,False,1
+,Nepal,2020-01-25 12:00:00,1,0,0,0,2020-01-25,Nepal,False,1
+,Singapore,2020-01-25 12:00:00,3,0,0,0,2020-01-25,Singapore,False,3
+,Singapore,2020-01-25 12:00:00,3,0,0,0,2020-01-25,Singapore,False,3
+,South Korea,2020-01-25 12:00:00,2,0,0,0,2020-01-25,South Korea,False,2
+,South Korea,2020-01-25 12:00:00,3,0,0,0,2020-01-25,South Korea,False,3
+Taiwan,Taiwan,2020-01-25 12:00:00,3,0,0,0,2020-01-25,"Taiwan, Taiwan",False,3
+Taiwan,Taiwan,2020-01-25 12:00:00,3,0,0,0,2020-01-25,"Taiwan, Taiwan",False,3
+,Thailand,2020-01-25 12:00:00,7,0,0,0,2020-01-25,Thailand,False,7
+,Thailand,2020-01-25 12:00:00,7,0,0,0,2020-01-25,Thailand,False,7
+Illinois,US,2020-01-25 12:00:00,1,0,0,0,2020-01-25,"Illinois, US",False,1
+Illinois,US,2020-01-25 12:00:00,1,0,0,0,2020-01-25,"Illinois, US",False,1
+Washington,US,2020-01-25 12:00:00,1,0,0,0,2020-01-25,"Washington, US",False,1
+Washington,US,2020-01-25 12:00:00,1,0,0,0,2020-01-25,"Washington, US",False,1
+,Vietnam,2020-01-25 12:00:00,2,0,0,0,2020-01-25,Vietnam,False,2
+,Vietnam,2020-01-25 12:00:00,2,0,0,0,2020-01-25,Vietnam,False,2
+Hubei,Mainland China,2020-01-25 22:00:00,1052,0,42,52,2020-01-25,"Hubei, Mainland China",True,958
+Zhejiang,Mainland China,2020-01-25 22:00:00,104,0,1,0,2020-01-25,"Zhejiang, Mainland China",True,103
+,Australia,2020-01-26 11:00:00,4,0,0,0,2020-01-26,Australia,False,4
+Ontario,Canada,2020-01-26 11:00:00,1,0,0,0,2020-01-26,"Ontario, Canada",False,1
+,France,2020-01-26 11:00:00,3,0,0,0,2020-01-26,France,False,3
+Hong Kong,Hong Kong,2020-01-26 11:00:00,8,244,0,0,2020-01-26,"Hong Kong, Hong Kong",False,8
+,Japan,2020-01-26 11:00:00,4,0,1,0,2020-01-26,Japan,False,3
+Macau,Macau,2020-01-26 11:00:00,5,0,0,0,2020-01-26,"Macau, Macau",False,5
+Anhui,Mainland China,2020-01-26 11:00:00,60,4,0,0,2020-01-26,"Anhui, Mainland China",True,60
+Beijing,Mainland China,2020-01-26 11:00:00,68,0,2,0,2020-01-26,"Beijing, Mainland China",True,66
+Chongqing,Mainland China,2020-01-26 11:00:00,75,0,0,0,2020-01-26,"Chongqing, Mainland China",True,75
+Fujian,Mainland China,2020-01-26 11:00:00,35,20,0,0,2020-01-26,"Fujian, Mainland China",True,35
+Gansu,Mainland China,2020-01-26 11:00:00,7,0,0,0,2020-01-26,"Gansu, Mainland China",True,7
+Guangdong,Mainland China,2020-01-26 11:00:00,111,0,2,0,2020-01-26,"Guangdong, Mainland China",True,109
+Guangxi,Mainland China,2020-01-26 11:00:00,36,0,0,0,2020-01-26,"Guangxi, Mainland China",True,36
+Guizhou,Mainland China,2020-01-26 11:00:00,5,0,0,0,2020-01-26,"Guizhou, Mainland China",True,5
+Hainan,Mainland China,2020-01-26 11:00:00,22,0,0,0,2020-01-26,"Hainan, Mainland China",True,22
+Hebei,Mainland China,2020-01-26 11:00:00,13,0,0,1,2020-01-26,"Hebei, Mainland China",True,12
+Heilongjiang,Mainland China,2020-01-26 11:00:00,15,0,0,1,2020-01-26,"Heilongjiang, Mainland China",True,14
+Henan,Mainland China,2020-01-26 11:00:00,83,3,0,1,2020-01-26,"Henan, Mainland China",True,82
+Hubei,Mainland China,2020-01-26 11:00:00,1058,0,42,52,2020-01-26,"Hubei, Mainland China",True,964
+Hunan,Mainland China,2020-01-26 11:00:00,69,0,0,0,2020-01-26,"Hunan, Mainland China",True,69
+Inner Mongolia,Mainland China,2020-01-26 11:00:00,7,0,0,0,2020-01-26,"Inner Mongolia, Mainland China",True,7
+Jiangsu,Mainland China,2020-01-26 11:00:00,33,0,1,0,2020-01-26,"Jiangsu, Mainland China",True,32
+Jiangxi,Mainland China,2020-01-26 11:00:00,36,0,0,0,2020-01-26,"Jiangxi, Mainland China",True,36
+Jilin,Mainland China,2020-01-26 11:00:00,4,0,0,0,2020-01-26,"Jilin, Mainland China",True,4
+Liaoning,Mainland China,2020-01-26 11:00:00,21,0,0,0,2020-01-26,"Liaoning, Mainland China",True,21
+Ningxia,Mainland China,2020-01-26 11:00:00,4,0,0,0,2020-01-26,"Ningxia, Mainland China",True,4
+Qinghai,Mainland China,2020-01-26 11:00:00,1,0,0,0,2020-01-26,"Qinghai, Mainland China",True,1
+Shaanxi,Mainland China,2020-01-26 11:00:00,22,0,0,0,2020-01-26,"Shaanxi, Mainland China",True,22
+Shandong,Mainland China,2020-01-26 11:00:00,46,0,0,0,2020-01-26,"Shandong, Mainland China",True,46
+Shanghai,Mainland China,2020-01-26 11:00:00,40,72,1,1,2020-01-26,"Shanghai, Mainland China",True,38
+Shanxi,Mainland China,2020-01-26 11:00:00,9,0,0,0,2020-01-26,"Shanxi, Mainland China",True,9
+Sichuan,Mainland China,2020-01-26 11:00:00,44,4,0,0,2020-01-26,"Sichuan, Mainland China",True,44
+Tianjin,Mainland China,2020-01-26 11:00:00,14,0,0,0,2020-01-26,"Tianjin, Mainland China",True,14
+Xinjiang,Mainland China,2020-01-26 11:00:00,4,0,0,0,2020-01-26,"Xinjiang, Mainland China",True,4
+Yunnan,Mainland China,2020-01-26 11:00:00,16,36,0,0,2020-01-26,"Yunnan, Mainland China",True,16
+Zhejiang,Mainland China,2020-01-26 11:00:00,104,0,1,0,2020-01-26,"Zhejiang, Mainland China",True,103
+,Malaysia,2020-01-26 11:00:00,4,0,0,0,2020-01-26,Malaysia,False,4
+,Nepal,2020-01-26 11:00:00,1,0,0,0,2020-01-26,Nepal,False,1
+,Singapore,2020-01-26 11:00:00,4,0,0,0,2020-01-26,Singapore,False,4
+,South Korea,2020-01-26 11:00:00,3,0,0,0,2020-01-26,South Korea,False,3
+Taiwan,Taiwan,2020-01-26 11:00:00,4,0,0,0,2020-01-26,"Taiwan, Taiwan",False,4
+,Thailand,2020-01-26 11:00:00,8,0,2,0,2020-01-26,Thailand,False,6
+Illinois,US,2020-01-26 11:00:00,1,0,0,0,2020-01-26,"Illinois, US",False,1
+Washington,US,2020-01-26 11:00:00,1,0,0,0,2020-01-26,"Washington, US",False,1
+,Vietnam,2020-01-26 11:00:00,2,0,0,0,2020-01-26,Vietnam,False,2
+Arizona,US,2020-01-26 16:30:00,1,0,0,0,2020-01-26,"Arizona, US",False,1
+California,US,2020-01-26 16:30:00,2,0,0,0,2020-01-26,"California, US",False,2
+,Australia,2020-01-26 23:00:00,4,0,0,0,2020-01-26,Australia,False,4
+Ontario,Canada,2020-01-26 23:00:00,1,0,0,0,2020-01-26,"Ontario, Canada",False,1
+,France,2020-01-26 23:00:00,3,0,0,0,2020-01-26,France,False,3
+Hong Kong,Hong Kong,2020-01-26 23:00:00,8,0,0,0,2020-01-26,"Hong Kong, Hong Kong",False,8
+,Japan,2020-01-26 23:00:00,4,0,1,0,2020-01-26,Japan,False,3
+Macau,Macau,2020-01-26 23:00:00,6,0,0,0,2020-01-26,"Macau, Macau",False,6
+Anhui,Mainland China,2020-01-26 23:00:00,70,0,0,0,2020-01-26,"Anhui, Mainland China",True,70
+Beijing,Mainland China,2020-01-26 23:00:00,68,0,2,0,2020-01-26,"Beijing, Mainland China",True,66
+Chongqing,Mainland China,2020-01-26 23:00:00,110,0,0,0,2020-01-26,"Chongqing, Mainland China",True,110
+Fujian,Mainland China,2020-01-26 23:00:00,35,0,0,0,2020-01-26,"Fujian, Mainland China",True,35
+Gansu,Mainland China,2020-01-26 23:00:00,14,0,0,0,2020-01-26,"Gansu, Mainland China",True,14
+Guangdong,Mainland China,2020-01-26 23:00:00,146,0,2,0,2020-01-26,"Guangdong, Mainland China",True,144
+Guangxi,Mainland China,2020-01-26 23:00:00,46,0,0,0,2020-01-26,"Guangxi, Mainland China",True,46
+Guizhou,Mainland China,2020-01-26 23:00:00,7,0,0,0,2020-01-26,"Guizhou, Mainland China",True,7
+Hainan,Mainland China,2020-01-26 23:00:00,22,0,0,0,2020-01-26,"Hainan, Mainland China",True,22
+Hebei,Mainland China,2020-01-26 23:00:00,18,0,0,1,2020-01-26,"Hebei, Mainland China",True,17
+Heilongjiang,Mainland China,2020-01-26 23:00:00,21,0,0,1,2020-01-26,"Heilongjiang, Mainland China",True,20
+Henan,Mainland China,2020-01-26 23:00:00,128,0,0,1,2020-01-26,"Henan, Mainland China",True,127
+Hubei,Mainland China,2020-01-26 23:00:00,1423,0,44,76,2020-01-26,"Hubei, Mainland China",True,1303
+Hunan,Mainland China,2020-01-26 23:00:00,100,0,0,0,2020-01-26,"Hunan, Mainland China",True,100
+Inner Mongolia,Mainland China,2020-01-26 23:00:00,11,0,0,0,2020-01-26,"Inner Mongolia, Mainland China",True,11
+Jiangsu,Mainland China,2020-01-26 23:00:00,47,0,1,0,2020-01-26,"Jiangsu, Mainland China",True,46
+Jiangxi,Mainland China,2020-01-26 23:00:00,48,0,0,0,2020-01-26,"Jiangxi, Mainland China",True,48
+Jilin,Mainland China,2020-01-26 23:00:00,6,0,0,0,2020-01-26,"Jilin, Mainland China",True,6
+Liaoning,Mainland China,2020-01-26 23:00:00,23,0,0,0,2020-01-26,"Liaoning, Mainland China",True,23
+Ningxia,Mainland China,2020-01-26 23:00:00,4,0,0,0,2020-01-26,"Ningxia, Mainland China",True,4
+Qinghai,Mainland China,2020-01-26 23:00:00,4,0,0,0,2020-01-26,"Qinghai, Mainland China",True,4
+Shaanxi,Mainland China,2020-01-26 23:00:00,22,0,0,0,2020-01-26,"Shaanxi, Mainland China",True,22
+Shandong,Mainland China,2020-01-26 23:00:00,63,0,0,0,2020-01-26,"Shandong, Mainland China",True,63
+Shanghai,Mainland China,2020-01-26 23:00:00,53,0,1,1,2020-01-26,"Shanghai, Mainland China",True,51
+Shanxi,Mainland China,2020-01-26 23:00:00,13,0,0,0,2020-01-26,"Shanxi, Mainland China",True,13
+Sichuan,Mainland China,2020-01-26 23:00:00,69,0,0,0,2020-01-26,"Sichuan, Mainland China",True,69
+Tianjin,Mainland China,2020-01-26 23:00:00,14,0,0,0,2020-01-26,"Tianjin, Mainland China",True,14
+Xinjiang,Mainland China,2020-01-26 23:00:00,5,0,0,0,2020-01-26,"Xinjiang, Mainland China",True,5
+Yunnan,Mainland China,2020-01-26 23:00:00,19,0,0,0,2020-01-26,"Yunnan, Mainland China",True,19
+Zhejiang,Mainland China,2020-01-26 23:00:00,128,0,1,0,2020-01-26,"Zhejiang, Mainland China",True,127
+,Malaysia,2020-01-26 23:00:00,4,0,0,0,2020-01-26,Malaysia,False,4
+,Nepal,2020-01-26 23:00:00,1,0,0,0,2020-01-26,Nepal,False,1
+,Singapore,2020-01-26 23:00:00,4,0,0,0,2020-01-26,Singapore,False,4
+,South Korea,2020-01-26 23:00:00,3,0,0,0,2020-01-26,South Korea,False,3
+Taiwan,Taiwan,2020-01-26 23:00:00,4,0,0,0,2020-01-26,"Taiwan, Taiwan",False,4
+,Thailand,2020-01-26 23:00:00,8,0,2,0,2020-01-26,Thailand,False,6
+Arizona,US,2020-01-26 23:00:00,1,0,0,0,2020-01-26,"Arizona, US",False,1
+California,US,2020-01-26 23:00:00,2,0,0,0,2020-01-26,"California, US",False,2
+Illinois,US,2020-01-26 23:00:00,1,0,0,0,2020-01-26,"Illinois, US",False,1
+Washington,US,2020-01-26 23:00:00,1,0,0,0,2020-01-26,"Washington, US",False,1
+,Vietnam,2020-01-26 23:00:00,2,0,0,0,2020-01-26,Vietnam,False,2
